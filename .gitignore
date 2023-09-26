@@ -3,3 +3,7 @@
 *.ilk
 *.pdb
 *.obj
+cmake-build-debug
+.vs
+.idea
+CmakeLists.txt
